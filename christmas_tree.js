@@ -1,3 +1,4 @@
+// Christmas Tree
 
 let n = 5;
 for (let line = 1; line < n; line++) {
